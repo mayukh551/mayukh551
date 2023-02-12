@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh551" alt="mayukh551" /></a> </p>
 
-- 🔭 I’m currently working on [RCCTechz website](https://github.com/mayukh551/RCCTechz-Website)
+- 🔭 I’m currently working on [Expense Tracker Website](https://github.com/mayukh551/expense-tracker-front-end)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Microservice Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayukh551?tab=repositories](https://github.com/mayukh551?tab=repositories)
 
