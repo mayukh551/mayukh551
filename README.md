@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayukh551?tab=repositories](https://github.com/mayukh551?tab=repositories)
 
-- 💬 Ask me about **react, tailwindcss, competitive programming, dsa, web development**
+- 💬 Ask me about **react, nodejs/expressjs, mongoDB, docker, kubernetes**
 
 - 📫 How to reach me **may14ukh@gmail.com**
 
